@@ -12,6 +12,8 @@ Based on:
 
 Fork or [Download](https://github.com/felicienfrancois/react-starter/archive/master.zip)
 
+then
+
 ```
 cd react-starter
 npm install
