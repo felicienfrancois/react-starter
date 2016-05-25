@@ -41,7 +41,7 @@ npm run test:watch
 npm start
 ```
 
-then open http://localhost:8080/webpack-dev-server/ in your browser
+then open `http://localhost:8080/webpack-dev-server/` in your browser
 
 ### Manage TypeScript Typings
 
