@@ -1,0 +1,55 @@
+{
+  "name": "react-starter",
+  "version": "0.0.1",
+  "description": "Starter Frontend App using React, Typescript, WebPack and Karma/Mocha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felicienfrancois/react-starter.git"
+  },
+  "author": {
+    "name": "Félicien François",
+    "email": "felicien@tweakstyle.com"
+  },
+  "contributors": [
+    {
+      "name": "Félicien François",
+      "email": "felicien@tweakstyle.com"
+    }
+  ],
+  "scripts": {
+    "typings": "typings",
+    "webpack": "webpack",
+    "postinstall": "webpack",
+    "start": "webpack-dev-server",
+    "test": "karma start",
+    "test:watch": "karma start --auto-watch --no-single-run"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "karma": "^0.13.22",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-mocha": "^1.0.1",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-webpack": "^1.7.0",
+    "mocha": "^2.5.2",
+    "node-sass": "^3.7.0",
+    "phantomjs-prebuilt": "^2.1.7",
+    "react-addons-test-utils": "^15.1.0",
+    "sass-loader": "^3.2.0",
+    "source-map-loader": "^0.1.5",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
