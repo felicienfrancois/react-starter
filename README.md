@@ -10,7 +10,7 @@ Based on:
 
 Commitments:
 - No global dependencies. CLI utilities are included as devDependencies and can be used via `npm run`
-- Stylesheets and TypeScript share the same source dir (Stylesheet files are put next to the associated TypeScript file)
+- Stylesheets and TypeScript sources share the same directory (Stylesheet files are put next to the associated TypeScript file)
 
 ### Install
 
