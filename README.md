@@ -8,6 +8,10 @@ Based on:
 - [Webpack Documentation](https://webpack.github.io/docs/)
 - [Taiga Boilerplate](http://www.taigaboilerplate.com/)
 
+Commitments:
+- No global dependencies. CLI utilities are included as devDependencies and can be used via `npm run`
+- Stylesheets and TypeScript share the same source dir (Stylesheet files are put next to the associated TypeScript file)
+
 ### Install
 
 [Fork](https://github.com/felicienfrancois/react-starter/fork) or [Download](https://github.com/felicienfrancois/react-starter/archive/master.zip)
