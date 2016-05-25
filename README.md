@@ -1,5 +1,5 @@
 # react-starter
-Minimal JavaScript App featuring [React](https://facebook.github.io/react/), [Typescript](http://www.typescriptlang.org/), [SCSS](http://sass-lang.com/), [WebPack](https://webpack.github.io/) and [Karma](https://karma-runner.github.io)+[Mocha](https://mochajs.org/)+[Chai](http://chaijs.com/)+[Chai](http://chaijs.com/)+[ReactTestUtils](https://facebook.github.io/react/docs/test-utils.html)
+Minimal JavaScript App featuring [React](https://facebook.github.io/react/), [Typescript](http://www.typescriptlang.org/), [SCSS](http://sass-lang.com/), [WebPack](https://webpack.github.io/) and [Karma](https://karma-runner.github.io)+[Mocha](https://mochajs.org/)+[Chai](http://chaijs.com/)+[ReactTestUtils](https://facebook.github.io/react/docs/test-utils.html)
 
 Based on:
 - [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
