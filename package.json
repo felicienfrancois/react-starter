@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
   "version": "0.0.1",
-  "description": "Starter Frontend App using React, Typescript, WebPack and Karma/Mocha",
+  "description": "Starter Frontend App using React, TypeScript, WebPack and Karma/Mocha",
   "license": "MIT",
   "repository": {
     "type": "git",

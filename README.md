@@ -1,8 +1,8 @@
 # react-starter
-Minimal JavaScript App featuring [React](https://facebook.github.io/react/), [Typescript](http://www.typescriptlang.org/), [SCSS](http://sass-lang.com/), [WebPack](https://webpack.github.io/) and [Karma](https://karma-runner.github.io)+[Mocha](https://mochajs.org/)+[Chai](http://chaijs.com/)+[ReactTestUtils](https://facebook.github.io/react/docs/test-utils.html)
+Minimal JavaScript App featuring [React](https://facebook.github.io/react/), [TypeScript](http://www.typescriptlang.org/), [SCSS](http://sass-lang.com/), [WebPack](https://webpack.github.io/) and [Karma](https://karma-runner.github.io)+[Mocha](https://mochajs.org/)+[Chai](http://chaijs.com/)+[ReactTestUtils](https://facebook.github.io/react/docs/test-utils.html)
 
 Based on:
-- [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 - [How to setup testing using TypeScript, Mocha, Karma and Webpack](https://templecoding.com/blog/2016/02/02/how-to-setup-testing-using-typescript-mocha-chai-sinon-karma-and-webpack/)
 - [React Documentation](https://facebook.github.io/react/docs/getting-started.html)
 - [Webpack Documentation](https://webpack.github.io/docs/)
@@ -39,7 +39,7 @@ npm start
 
 then open http://localhost:8080/webpack-dev-server/ in your browser
 
-### Manage Typescript Typings
+### Manage TypeScript Typings
 
 ```
 npm run typings -- search <<somelibrary>>
