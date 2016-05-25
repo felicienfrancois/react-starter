@@ -10,8 +10,9 @@ Based on:
 
 ### Install
 
+Fork or [Download](https://github.com/felicienfrancois/react-starter/archive/master.zip)
+
 ```
-git clone https://github.com/felicienfrancois/react-starter
 cd react-starter
 npm install
 ```
@@ -22,8 +23,23 @@ npm install
 npm test
 ```
 
+or
+
+```
+npm run test:watch
+```
+
 ### Run dev server
 
 ```
 npm start
+```
+
+then open http://localhost:8080/webpack-dev-server/ in your browser
+
+### Manage Typescript Typings
+
+```
+npm run typings -- search <<somelibrary>>
+npm run typings -- install dt~<<somelibrary>> --save --global
 ```
