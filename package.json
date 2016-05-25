@@ -20,7 +20,7 @@
   "scripts": {
     "typings": "typings",
     "webpack": "webpack",
-    "postinstall": "webpack",
+    "postinstall": "typings install && webpack",
     "start": "webpack-dev-server",
     "test": "karma start",
     "test:watch": "karma start --auto-watch --no-single-run"

@@ -44,3 +44,6 @@ Thumbs.db
 # Webpack dist
 /dist/
 
+# Typings
+/typings/
+
