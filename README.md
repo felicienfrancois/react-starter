@@ -10,7 +10,7 @@ Based on:
 
 ### Install
 
-Fork or [Download](https://github.com/felicienfrancois/react-starter/archive/master.zip)
+[Fork](https://github.com/felicienfrancois/react-starter/fork) or [Download](https://github.com/felicienfrancois/react-starter/archive/master.zip)
 
 then
 
