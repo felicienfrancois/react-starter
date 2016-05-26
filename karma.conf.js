@@ -26,6 +26,7 @@ module.exports = function (config) {
     singleRun: true,
     concurrency: Infinity,
     webpackMiddleware: {
+        quiet: true,
         noInfo: true
     }
   });
